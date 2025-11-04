@@ -77,11 +77,10 @@ O projeto tem como objetivo demonstrar habilidades práticas em consumo de APIs 
 📦 pokedex
 ┣ 📂 assets
 ┃ ┣ 📂 css
-┃ ┣ 📂 js
-┃ ┗ 📂 images
+┃ ┗ 📂 js
 ┣ 📜 index.html
-┣ 📜 README.md
-┗ 📜 LICENSE
+┗ 📜 README.md
+
 ```
 
 ---
@@ -173,11 +172,10 @@ It aims to demonstrate practical skills in consuming RESTful APIs, DOM manipulat
 📦 pokedex
 ┣ 📂 assets
 ┃ ┣ 📂 css
-┃ ┣ 📂 js
-┃ ┗ 📂 images
+┃ ┗ 📂 js
 ┣ 📜 index.html
-┣ 📜 README.md
-┗ 📜 LICENSE
+┗ 📜 README.md
+ 
 ```
 
 ---
